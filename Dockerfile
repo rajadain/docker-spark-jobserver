@@ -1,4 +1,4 @@
-FROM quay.io/azavea/spark:1.5.2
+FROM quay.io/azavea/spark:2.1.0
 
 MAINTAINER Azavea <systems@azavea.com>
 
